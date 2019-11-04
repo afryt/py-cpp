@@ -1,6 +1,31 @@
 name: Py-C++
-theme: jekyll-theme-cayman
+remote_theme: mmistakes/minimal-mistakes
 markdown: kramdown
 google_analytics: UA-151307080-1
 title: py-cpp
 description: Python / C++ Interoperability, the best from both worlds
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+include:
+  - _pages
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
