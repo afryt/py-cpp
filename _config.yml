@@ -1,1 +1,6 @@
+name: Py-C++
 theme: jekyll-theme-cayman
+markdown: kramdown
+google_analytics: UA-151307080-1
+title: py-cpp
+description: Python / C++ Interoperability, the best from both worlds
