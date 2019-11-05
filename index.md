@@ -5,5 +5,5 @@
 layout: home
 excerpt: "Python/C++ interoperability. The best from both worlds!"
 header:
-    overlay_color: "#333"
+    image: /assets/images/logo-2-code.png
 ---
