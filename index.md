@@ -5,5 +5,5 @@
 layout: home
 excerpt: "Python/C++ interoperability. The best from both worlds!"
 header:
-    image: /assets/images/logo-2-code.png
+    image: /assets/images/logo-2-text.png
 ---
