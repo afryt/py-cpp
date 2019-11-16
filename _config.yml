@@ -5,7 +5,7 @@ markdown: kramdown
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "UA-13210082-2"
+    tracking_id: "UA-151307080-1"
 
 title: py-cpp
 description: Python / C++ Interoperability, the best from both worlds
